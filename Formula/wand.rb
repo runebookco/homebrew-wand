@@ -1,5 +1,5 @@
 class Wand < Formula
-  version "0.0.3"
+  version "0.0.4"
   desc "Runebook CLI"
   homepage "https://runebook.co"
 
